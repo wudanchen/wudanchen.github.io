@@ -2,6 +2,7 @@
 date: 1998-01-01
 category:
   - History
+  - 测试
 tag:
   - WWI
 archive: true
