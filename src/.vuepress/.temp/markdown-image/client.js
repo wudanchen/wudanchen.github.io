@@ -1,2 +1,2 @@
-import "/home/wdc/mycode/vue_blog/my-docs/node_modules/.pnpm/@vuepress+plugin-markdown-image@2.0.0-rc.115_markdown-it@14.1.0_vuepress@2.0.0-rc.26_@v_368d37402507b332bb66f75ac1d92c9e/node_modules/@vuepress/plugin-markdown-image/lib/client/styles/figure.css"
+import "/home/wdc/mycode/vue_blog/my-docs/node_modules/@vuepress/plugin-markdown-image/lib/client/styles/figure.css"
 

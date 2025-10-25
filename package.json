@@ -1,5 +1,5 @@
 {
-  "name": "vue_blog",
+  "name": "vuepress-theme-hope-template",
   "description": "A project of vuepress-theme-hope",
   "version": "2.0.0",
   "license": "MIT",
@@ -8,7 +8,7 @@
     "docs:build": "vuepress-vite build src",
     "docs:clean-dev": "vuepress-vite dev src --clean-cache",
     "docs:dev": "vuepress-vite dev src",
-    "docs:update-package": "pnpm dlx vp-update"
+    "docs:update-package": "npx vp-update"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.26",
@@ -16,10 +16,5 @@
     "vue": "^3.5.22",
     "vuepress": "2.0.0-rc.26",
     "vuepress-theme-hope": "2.0.0-rc.96"
-  },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "esbuild"
-    ]
   }
 }
