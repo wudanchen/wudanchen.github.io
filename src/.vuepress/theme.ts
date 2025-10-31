@@ -11,7 +11,8 @@ export default hopeTheme({
     url: "https://github.com/wudcx",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  // logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/my_image/wudcx_logo_min_removebg_preview.png",
 
   repo: "https://github.com/wudcx",
 
