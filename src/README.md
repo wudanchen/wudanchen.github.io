@@ -5,7 +5,7 @@ icon: house
 title: 博客主页
 # heroImage: /my_image/wudcx_logo_min_removebg_preview.png
 bgImage: /my_image/back_image.jpg
-# heroText: wlecome to wudcx blog
+heroText: 
 heroFullScreen: true
 # tagline: 你可以在这里放置你的口号与标语
 projects:
