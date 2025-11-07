@@ -4,18 +4,32 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "如何使用",
+      text: "cmake 教程",
       icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
+      prefix: "cmake/",
+      link: "cmake/",
       children: "structure",
     },
     {
-      text: "文章",
-      icon: "book",
-      prefix: "posts/",
+      text: "C++ 面试题",
+      icon: "laptop-code",
+      prefix: "interview/",
+      link: "interview/",
       children: "structure",
     },
+    // {
+    //   text: "如何使用",
+    //   icon: "laptop-code",
+    //   prefix: "demo/",
+    //   link: "demo/",
+    //   children: "structure",
+    // },
+    // {
+    //   text: "文章",
+    //   icon: "book",
+    //   prefix: "posts/",
+    //   children: "structure",
+    // },
     // "intro",
     // {
     //   text: "幻灯片",
