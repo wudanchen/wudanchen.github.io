@@ -1,9 +1,9 @@
 ---
-title: C++ 面试题
+title: neovim 教程
 index: false
 icon: laptop-code
 category:
-  - 使用指南
+  - neovim
 ---
 
 <Catalog />

@@ -10,9 +10,9 @@ heroFullScreen: false
 # tagline: 你可以在这里放置你的口号与标语
 projects:
   - icon: folder-open
-    name: C++ 面试题
-    desc: C++ 面试题详解
-    link: https://你的项目链接
+    name: C++ 指南
+    desc: C++ 语言指南
+    link: /src/cpp_guide/README.md
 
   - icon: link
     name: cmake 模板

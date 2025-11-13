@@ -2,8 +2,9 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/cmake/",
-  "/interview/",
+  "/cpp_guide/",
+  // "/cmake/",
+  // "/interview/",
   // {
   //   text: "博文",
   //   icon: "pen-to-square",

@@ -11,10 +11,18 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "C++ 面试题",
-      icon: "laptop-code",
-      prefix: "interview/",
-      link: "interview/",
+      text: "cpp 指南",
+      icon: "file",
+      prefix: "cpp_guide/",
+      link: "cpp_guide/",
+      children: "structure",
+    },
+
+    {
+      text: "neovim 指南",
+      icon: "file",
+      prefix: "neovim/",
+      link: "neovim/",
       children: "structure",
     },
     // {
