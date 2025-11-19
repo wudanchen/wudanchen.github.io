@@ -9,15 +9,15 @@ heroText:
 heroFullScreen: false
 # tagline: 你可以在这里放置你的口号与标语
 projects:
-  - icon: folder-open
-    name: C++ 指南
-    desc: C++ 语言指南
-    link: /src/cpp_guide/README.md
-
-  - icon: link
-    name: cmake 模板
-    desc: cmake 工程项目模板
-    link: /src/cmake/README.md
+#  - icon: folder-open
+#    name: C++ 指南
+#    desc: C++ 语言指南
+#    link: /src/cpp_guide/README.md
+#
+#  - icon: link
+#    name: cmake 模板
+#    desc: cmake 工程项目模板
+#    link: /src/cmake/README.md
 
 # footer: 自定义你的页脚文字
 ---
